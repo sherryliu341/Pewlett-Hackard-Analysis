@@ -6,7 +6,7 @@
 
 1. ***Deliverable 1***: The Number of Retiring Employees by Title
 2. ***Deliverable 2***: The Employees Eligible for the Mentorship Program
-3. ***Deliverable 3***: A written report on the employee database analysis [`README.md`](https://github.com/emmanuelmartinezs/Pewlett-Hackard-Analysis). 
+3. ***Deliverable 3***: A written report on the employee database analysis 
 
 ## Resources and Before Start Notes:
 
@@ -14,7 +14,7 @@
 * Data Tools: PostgreSQL, pgAdmin
 * Software: pgAdmin 4.26, Python 3.8.3, Visual Studio Code 1.50.0, Flask Version 1.0.2
 
-For more information, read the [`Documentation on PostgreSQL and other data typess`](https://www.postgresql.org/docs/manuals/). 
+
 
 ## Database Keys
 Database keys identify records from tables and establish relationships between tables. There are numerous types of keys. For our purposes, we will focus on primary keys and foreign keys.
